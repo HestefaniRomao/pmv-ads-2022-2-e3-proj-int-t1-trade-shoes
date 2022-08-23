@@ -32,6 +32,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Tamara Silva        | Poder trocar tênis dos quais já enjoei por outros tênis de valor similar. | Poder economizar dinheiro na hora de obter novos modelos de tênis. |
 |Felipe Souza        | Poder buscar por modelos de tênis específicos e visualizar todas as informações relevantes aos mesmos. | Poder avaliar se os tênis anunciado atendem às suas expectativas antes de realizar a transação. |
 |Felipe Souza        | Realizar a troca de seus tênis por meio de uma empresa segura que garanta a integridade do produto e o assegure em caso de fraude. | Poder obter os modelos de tênis que deseja sem o risco de receber produtos falsificados ou em estado de conservação ruim. |
+|Douglas Gonçalves   | Poder trocar seus tênis de esportes de auto rendimento por modelos mais novos |  As empresas atualizam a versão todo ano e isso gera um grande gasto se for comprar a nova versão lançamento. |
+
 
 ## Modelagem do Processo de Negócio 
 
@@ -77,6 +79,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Disponibilizar um sistema de mensagens onde os usuários poderão conversar entre si a respeito dos produtos e combinar possíveis trocas.   | MÉDIA |
 |RF-004| Disponibilizar um sistema onde os usuários poderão fazer “ofertas” de trocas de um produto cadastrado pelo outro. Sendo que o usuário a qual a oferta foi feita poderá visualizar todas as ofertas em aberto e optar por aceitar ou recusar as mesmas. | MÉDIA |
 |RF-005| Disponibilizar um sistema de envio das mercadorias primeiro para a empresa (que realizará a curadoria dos produtos para determinar se estão em bom estado) e depois para os clientes. | ALTA |
+|RF-006| Disponibilizar uma tabela de medida em centímetros do pé de acordo com a numeração do tênis, afim de solucionar problemas de devoluções. | ALTA |
 
 ### Requisitos não Funcionais
 
