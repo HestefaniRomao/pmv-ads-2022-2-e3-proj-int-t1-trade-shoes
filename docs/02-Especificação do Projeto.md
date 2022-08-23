@@ -18,6 +18,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |![2](https://user-images.githubusercontent.com/74699119/186230583-da7a053d-8297-4990-ae19-db347803924a.png)| **Idade:** 27 <br> **Ocupação:**  Especialista em marketing,<br>colecionador amador de tênis de marca |**Aplicativos:**<br>● Tiktok<br>● Facebook<br>● LinkedIn |
 |**Motivações:**<br>● Adicionar novos itens à sua<br> coleção de tênis<br>● Conhecer pessoas que<br> compartilhem seu hobby |**Frustrações:**<br>● Dificuldade para achar modelos de tênis<br> raros/antigos em bom estado. |**Hobbies:**<br>● Colecionar tênis<br>● Assistir séries |
 
+|Douglas Gonçalves     | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![2](https://user-images.githubusercontent.com/91163177/186244072-906f4b5e-fe53-41f5-8eb2-306ec98d297f.png)| **Idade:** 33 <br> **Ocupação:**  Advogado,<br> apaixonado por esportes |**Aplicativos:**<br>● Instagram<br>● Facebook<br>● LinkedIn |
+|**Motivações:**<br>● Trocar seus tênis esportivos antigos por outros diferentes<br>● Conhecer pessoas que<br> pratiquem esportes e queiram trocar tênis esportivos |**Frustrações:**<br>● Dificuldade para armazenar seus tênis que estão em bom estado<br> por estar comprando sempre lançamentos e acumulando. |**Hobbies:**<br>● Colecionar tênis esportivos<br>● Praticar esportes |
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -28,7 +33,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Tamara Silva        | Poder trocar tênis dos quais já enjoei por outros tênis de valor similar. | Poder economizar dinheiro na hora de obter novos modelos de tênis. |
 |Felipe Souza        | Poder buscar por modelos de tênis específicos e visualizar todas as informações relevantes aos mesmos. | Poder avaliar se os tênis anunciado atendem às suas expectativas antes de realizar a transação. |
 |Felipe Souza        | Realizar a troca de seus tênis por meio de uma empresa segura que garanta a integridade do produto e o assegure em caso de fraude. | Poder obter os modelos de tênis que deseja sem o risco de receber produtos falsificados ou em estado de conservação ruim. |
-|Douglas Gonçalves   | Poder trocar seus tênis de esportes de auto rendimento por modelos mais novos |  As empresas atualizam a versão todo ano e isso gera um grande gasto se for comprar a nova versão lançamento. |
+|Douglas Gonçalves   | Poder trocar seus tênis de esportes de auto rendimento antigos em bom estado por outros tênis diferentes| Poder trocar seus tênis de auto rendimento por outros variados, já que os de auto rendimento ele sempre compra lançamentos e não quer acumular espaços com os antigos. |
 
 
 ## Modelagem do Processo de Negócio 
