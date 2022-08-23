@@ -27,16 +27,6 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 É de grande importância que o consumismo desenfreado é um problema social e pode impactar de forma negativa na vida financeira das pessoas e também ao meio ambiente. Visando isso, essa ferramenta tecnológica tem como intuito proporcionar aos usuários uma maneira de trocarem seus tênis que acabariam indo para o lixo ou acumulando espaço em suas casas, de forma segura, rápida e fácil, transformando o que era um problema em algo vantajoso tanto para o usuário quanto para o ambiente.
 
-
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O foco deste projeto são pessoas brasileiras, jovens, que não têm mais interesse em seus tênis, ainda em bom estado, e que possuem vontade de interagir em um ambiente de troca entre usuários. Sendo assim, estabeleceu-se como público-alvo, homens e mulheres entre 16 e 40 anos residentes no Brasil, que queiram trocar seus tênis usados com outras pessoas.
