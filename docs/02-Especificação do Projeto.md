@@ -21,7 +21,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |Douglas Gonçalves     | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![2](https://user-images.githubusercontent.com/91163177/186244072-906f4b5e-fe53-41f5-8eb2-306ec98d297f.png)| **Idade:** 33 <br> **Ocupação:**  Advogado,<br> apaixonado por esportes |**Aplicativos:**<br>● Instagram<br>● Facebook<br>● LinkedIn |
-|**Motivações:**<br>● Trocar seus tênis esportivos antigos por outros diferentes<br>● Conhecer pessoas que<br> pratiquem esportes e queiram trocar tênis esportivos |**Frustrações:**<br>● Dificuldade para armazenar seus tênis que estão em bom estado<br> por estar comprando sempre lançamentos e acumulando. |**Hobbies:**<br>● Colecionar tênis esportivos<br>● Praticar esportes |
+|**Motivações:**<br>● Trocar seus tênis esportivos antigos por outros diferentes<br>● Conhecer pessoas que pratiquem esportes e queiram trocar tênis esportivos |**Frustrações:**<br>● Dificuldade para armazenar seus tênis que estão em bom estado<br> por estar comprando sempre lançamentos e acumulando. |**Hobbies:**<br>● Colecionar tênis esportivos<br>● Praticar esportes |
+
+|Luiz Felipe     | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![2](img/user1.png)| **Idade:** 32 <br> **Ocupação:**  Analista financeiro,<br> apaixonado por esportes |**Aplicativos:**<br>● Instagram<br>● Pinterest<br>● LinkedIn |
+|**Motivações:**<br>● Defender sua tese de doutorado.<br>● Encontrar uma comunidade que adora sapatos sociais de marcas caras.|**Frustrações:**<br>● Dificuldade em encontrar pessoas que queiram realizar a troca de sapatos sociais. |**Hobbies:**<br>● Tocar Violão<br>● Correr<br>● Assistir Futebol |
 
 ## Histórias de Usuários
 
