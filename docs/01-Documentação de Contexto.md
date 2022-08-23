@@ -3,7 +3,7 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Diante do exposto, percebe-se que há três problemas a serem sanados, a urgência em disponibilizar canais que permitam aos usuários realizar a troca de calçados, <br>reduzir o consumo desenfreado e contribuir com a diminuição da poluição no meio ambiente.
+Diante do exposto, percebe-se que há três problemas a serem sanados, a urgência em disponibilizar canais que permitam aos usuários realizar a troca de calçados, reduzir o consumo desenfreado e contribuir com a diminuição da poluição no meio ambiente.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
