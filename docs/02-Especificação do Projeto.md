@@ -93,6 +93,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| O sistema deverá ser desenvolvido utilizando-se o framework React Native. |  ALTA | 
+|RNF-003| O sistema deverá garantir a segurança dos dados sensíveis do usuário por meio de criptografia. |  ALTA | 
 
 ## Restrições
 
